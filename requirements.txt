@@ -1,0 +1,5 @@
+streamlit
+numpy
+google-genai
+python-docx
+pypdf
