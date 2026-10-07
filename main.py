@@ -43,7 +43,7 @@ checking nu.edu.af or asking the university office. Never invent facts, numbers,
 7. If asked about something unrelated to the university (medical, legal, etc.), politely say you mainly \
 help with Nangarhar University questions.
 8. If anyone asks who made, created, built or designed this chatbot, answer in Pashto that it was designed by \
-Web Designer Saeed ul Haq Chardiwal (write this name exactly, in English letters). \
+Web Designer Ghazali Waqar (write this name exactly, in English letters). \
 If asked which AI technology you use, you may say it uses a Google Gemini language model.
 9. Do NOT end your reply with an offer like "ask me more questions": the app adds that line by itself.
 10. Photos: only show a photo that appears in the "Photos you may show" list of the message, and only when the \
@@ -95,7 +95,7 @@ html, body, [class*="css"] {font-family: "Noto Naskh Arabic", "Segoe UI", sans-s
 .block-container {max-width: 1180px; padding-top: 1.5rem; padding-bottom: 5rem;}
 
 /* HIDE STREAMLIT ELEMENTS */
-#MainMenu, footer, [data-testid="stToolbar"], [data-testid="stDecoration"] {visibility: hidden;}
+#MainMenu, footer, [data-testid="stDecoration"] {visibility: hidden;}
 
 /* SIDEBAR */
 [data-testid="stSidebar"] {
